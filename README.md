@@ -38,4 +38,3 @@ docker run --mount source=ak-ehn-checker-volume,target=/root/data -it ak-ehn-che
 
 NB: the file /root/.edgerc is a symbolic link to /root/data/.edgerc on the persistent volume.
 
-# ak-ehn-checker
